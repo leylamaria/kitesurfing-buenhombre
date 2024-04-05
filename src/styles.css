@@ -144,6 +144,9 @@ main h2 {
   opacity: 0.3;
   text-transform: uppercase;
 }
+main h2 a {
+  text-decoration: none;
+}
 main h3 {
   font-size: 36px;
   font-weight: 700;
