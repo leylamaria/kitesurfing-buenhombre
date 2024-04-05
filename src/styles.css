@@ -30,7 +30,7 @@ section.secondary {
 }
 .vantage-gallery {
   grid-gap: 20px;
-  margin: 50px 0;
+  margin: 40px 0;
 }
 .vantage-img {
   border-radius: 15px;
@@ -46,7 +46,7 @@ section.secondary {
 }
 .card {
   background-color: #ffffff;
-  margin: 50px auto;
+  margin: 40px auto;
 }
 .card-header.grid {
   grid-gap: 0px;
@@ -82,10 +82,10 @@ section.secondary {
   text-transform: uppercase;
 }
 .instagram-embeds {
-  margin: 50px 0;
+  margin: 40px 0;
 }
 .spotify-embeds {
-  margin: 50px 0;
+  margin: 40px 0;
 }
 header {
   background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.6)),
